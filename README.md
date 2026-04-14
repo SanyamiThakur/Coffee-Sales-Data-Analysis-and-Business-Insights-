@@ -2,6 +2,7 @@
 Coffee sales analysis using Python. Cleaned and processed data with Pandas and NumPy, performed exploratory data analysis, and built visualizations using Matplotlib and Seaborn. Identified sales trends, top-performing products, and customer purchasing patterns to generate actionable insights for improving revenue and business strategy.
 
 ☕ Coffee Shop Sales Data Analytics
+
 📌 Project Overview
 An end-to-end exploratory data analysis project on a coffee shop's transaction records, covering the full pipeline from raw CSV data to a suite of charts and summaries built in Python. The project uncovers insights around product revenue, customer payment behaviour, and temporal sales patterns to support smarter menu, staffing, and operational decisions.
 
