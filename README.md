@@ -41,10 +41,10 @@ Bar chart — Transaction count by hour of day (07:00–22:00)
 
 💡 Key Business Insights
 
-92.1% of payments were made by card, with only 7.8% in cash — the shop is effectively card-first and could consider going cashless without meaningful customer impact.
+92.1% of payments were made by card, with only 7.8% in cash. The shop is effectively card-first and could consider going cashless without a meaningful customer impact.
 Americano with Milk dominated order volume at 23.65%, followed by Latte (21.45%) and Cappuccino (17.30%). Espresso and Cocoa together account for under 8% of orders, and may warrant menu rationalisation or promotional focus.
-Peak trading falls between 10–11 AM, with over 130 transactions in that single hour — nearly double most other hours. Staffing and stock preparation should be concentrated around this window.
+Peak trading falls between 10–11 AM, with over 130 transactions in that single hour, nearly double most other hours. Staffing and stock preparation should be concentrated around this window.
 A secondary afternoon peak appears around 6–7 PM, consistent with an after-work customer segment that represents a meaningful second wave of daily demand.
 Wednesday recorded the highest transaction count of any weekday; Sunday was the quietest day, suggesting reduced weekend staffing may be appropriate.
-Sales dipped noticeably in June across most drink categories before recovering in July — this could reflect seasonal behaviour, a local event, or a data gap worth investigating.
+Sales dipped noticeably in June across most drink categories, then recovered in July. This could reflect seasonal behaviour, a local event, or a data gap worth investigating.
 Average transaction value was £33.11, with the full range sitting between £18.12 and £40.00, indicating a relatively consistent price band with limited outlier risk.
