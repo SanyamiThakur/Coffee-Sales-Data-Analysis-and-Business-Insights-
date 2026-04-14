@@ -38,10 +38,6 @@ Bar chart — Transaction count by day of week (Sun–Sat)
 Bar chart — Transaction count by hour of day (07:00–22:00)
 2×4 subplot grid — Hourly sales broken down by individual coffee type
 
-Distribution
-
-Percentage table — Order share per drink, sorted descending
-
 
 💡 Key Business Insights
 
